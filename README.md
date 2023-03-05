@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Python Flask and many databases
 - 💞️ I’m looking to collaborate on ... Software companies that will help me learn and grow and also so that I can cretea rich applications for them
 - 📫 How to reach me ... Facebook: Nahian Ashfak
--                          Discord: Ni7#1742 
--                           LinkedIn: nahian-ashfak-bosunia
+-                         Discord: Ni7#1742 
+-                         LinkedIn: nahian-ashfak-bosunia
 
 
 <!---
